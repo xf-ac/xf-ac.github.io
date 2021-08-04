@@ -3,17 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Lesson"
+    url: /sourse of lessons/  
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Group Disgussion"
+    url: /disgussion notes/    
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Blog"
+    url: /notes of self-study/
     
   - title: "CV"
     url: /cv/
